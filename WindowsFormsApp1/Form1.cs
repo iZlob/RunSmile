@@ -7,11 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//kgghkgjfjhghjfhfggjkghjghghjgkhghgh
+kgghkgjfjhghjfhfggjkghjghghjgkhghgh
 namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+        int dahdaj = 384738;
         int trys;
         int _try;
         double m = 0;
